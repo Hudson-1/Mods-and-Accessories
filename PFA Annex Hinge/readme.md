@@ -14,7 +14,7 @@
 ## Summary
 
 <p align="left">
-<img src="PFA Annex Hinge/Images/hinge iso.png" width="800">
+  <img src="Images/hinge iso.png" width="600">
 </p>
 
 This is a scaled-down version of the Annex Engineering hinges on the K3.
