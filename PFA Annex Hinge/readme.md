@@ -28,7 +28,7 @@ Also Included are door knobs along with magnet holders.
 
  - 2 F623 Bearings
  - 1 M3x30 screw
- - 2 M3x12 BHCS screw (or M3x8 if using 3mm front panel)
+ - 3 M3x12 BHCS screw (or M3x8 if using 3mm front panel)
  - 2 M3x12 FHCS screw (or M3x8 if using 3mm front panel)
  - 1 M3x8 FHCS screw
  - 1 M3 nut
