@@ -24,9 +24,9 @@ An example DXF of a front panel for a v0 is included to show what the cutout dim
 
 Also Included are door knobs along with magnet holders.
 
-## BOM (For 1 Hinge, 1 knob, 1 Magnet)
+## BOM (For 1 Hinge, 1 Knob, 1 Magnet)
 
-- 2 F623 Bearings
+ - 2 F623 Bearings
  - 1 M3x30 screw
  - 2 M3x12 BHCS screw (or M3x8 if using 3mm front panel)
  - 2 M3x12 FHCS screw (or M3x8 if using 3mm front panel)
