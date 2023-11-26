@@ -2,16 +2,13 @@
 
 
 
-<br/>
-<p align="center">
-  <h3 align="center">Rainbow Serial Bumper </h3>
+<div align="center">
+  <h3 style="font-size: 32px;">Rainbow Serial Bumper</h3>
 
-  <p align="center">
+  <p>
     for even the smallest of printers
-    <br/>
-    <br/>
   </p>
-</p>
+</div>
 
 ## Summary
 
