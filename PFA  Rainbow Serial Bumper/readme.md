@@ -19,7 +19,7 @@
   <img src="Images/Bumper ISO.png" width="600">
 </p>
 
-This is a scaled-down version of the MapleLeafMakers bumper, designed for 1515 prints, specifically Tri-Zero/Pandoras Box/Hex-Zero. This is a WIP, so print at your own risk!
+This is a scaled-down version of the MapleLeafMakers bumper, designed for 1515 printers, specifically Tri-Zero/Pandoras Box/Hex-Zero. This is a WIP, so print at your own risk!
 
 ## BOM
 
