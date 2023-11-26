@@ -22,7 +22,7 @@ There are two designs, one for a 3mm (1/8in) front panel, and one for a 6mm (1/4
 
 An example DXF of a front panel for a v0 is included to show what the cutout dimensions and spacings are (Note: the m3 holes on the pannel are undersized to thread into, this is because on a tri-zero the z pulley gets in the way of nuts that would go on the other side).
 
-Also Included are door knobs along with magnet holders.
+Also included are door knobs along with magnet holders.
 
 ## BOM (For 1 Hinge, 1 Knob, 1 Magnet)
 
