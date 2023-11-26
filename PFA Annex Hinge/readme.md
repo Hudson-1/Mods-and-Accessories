@@ -20,7 +20,7 @@
 This is a scaled-down version of the Annex Engineering hinges on the K3.
 There are two designs, one for a 3mm (1/8in) front panel, and one for a 6mm (1/4in) front panel. 
 
-An example DXF of a front panel for a v0 is included to show what the cutout dimensions and spacings are (Note: the m3 holes on the pannel are undersized to thread into, this is because on a tri zero the z pulley gets in the way of nuts that would good on the other side).
+An example DXF of a front panel for a v0 is included to show what the cutout dimensions and spacings are (Note: the m3 holes on the pannel are undersized to thread into, this is because on a tri-zero the z pulley gets in the way of nuts that would go on the other side).
 
 Also Included are door knobs along with magnet holders.
 
