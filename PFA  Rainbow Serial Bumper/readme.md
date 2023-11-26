@@ -29,4 +29,4 @@ This is a scaled-down version of the MapleLeafMakers bumper, designed for 1515 p
 
 ## Credits:
 
-* [MapleLeafMakers](https://github.com/MapleLeafMakers/Rainbow_Serial_Bumper/tree/main)
+* [MapleLeafMakers](https://github.com/MapleLeafMakers/Rainbow_Serial_Bumper/tree/main) for inspiration and the LED CAD file
